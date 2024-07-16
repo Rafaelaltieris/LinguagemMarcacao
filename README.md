@@ -1,6 +1,7 @@
 # HTML - HyperText Markup Language
 
-![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="150" height="150">
+
 
 HTML (HyperText Markup Language) é a linguagem de marcação padrão para a criação de páginas web. Ela descreve a estrutura de uma página web e, em conjunto com CSS e JavaScript, forma a base da web moderna.
 
